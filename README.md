@@ -4,7 +4,7 @@ A simple portfolio website to showcase my work. This application was built using
 
 ### Link
 
-Deployed application ![here](https://omarx.github.io/Portfolio_Adv_Css) 
+Deployed application [here](https://omarx.github.io/Portfolio_Adv_Css) 
 
 
 ## Screenshot
